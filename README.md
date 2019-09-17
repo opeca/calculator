@@ -9,6 +9,8 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
+[![Build Status](https://fatti81.visualstudio.com/Lab360/_apis/build/status/opeca.calculator?branchName=master)](https://fatti81.visualstudio.com/Lab360/_build/latest?definitionId=4&branchName=master)
+
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
